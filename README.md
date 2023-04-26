@@ -1,1 +1,2 @@
 # Back-End-Maping
+In this project we built the back end of a website. We enabled the means to recive, post, edit, and delete information. This is built for a manager at an internet retail company so that they can compete with other e-commerce companies. 
